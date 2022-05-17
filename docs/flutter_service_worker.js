@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "51e18332b5ff4ad49bcd8dbc3b1a7432",
-"index.html": "e642a0ee8742f5efeb771556e91d2f11",
-"/": "e642a0ee8742f5efeb771556e91d2f11",
-"main.dart.js": "52726be8301ad2a197afd82fd0112221",
+"index.html": "61771f7c7a913ffeabcc5da87b705a88",
+"/": "61771f7c7a913ffeabcc5da87b705a88",
+"main.dart.js": "1ecb38882b0cc90bea5e25a6d5296661",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -187,11 +187,7 @@ const RESOURCES = {
 "assets/assets/google_fonts/RedHatText-Medium.ttf": "03f7db4cb3d64ea78d74865f25a7d8c0",
 "assets/assets/google_fonts/Montserrat-SemiBold.ttf": "c641dbee1d75892e4d88bdc31560c91b",
 "assets/assets/google_fonts/OFL.txt": "df9b38689676468d7a83a86a5f50f7fb",
-"assets/assets/google_fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/google_fonts/Montserrat-Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb"
 };
 
 // The application shell files that are downloaded before a service worker can
